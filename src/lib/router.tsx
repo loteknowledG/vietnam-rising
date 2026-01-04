@@ -7,6 +7,10 @@ import { SectionPage } from '@/components/SectionPage'
 import { ScreenDesignPage, ScreenDesignFullscreen } from '@/components/ScreenDesignPage'
 import { ShellDesignPage, ShellDesignFullscreen } from '@/components/ShellDesignPage'
 import { ExportPage } from '@/components/ExportPage'
+import HCMCHubPreview from '@/sections/hcmc-hub/HCMCHubPreview'
+import HanoiHubPreview from '@/sections/hanoi-hub/HanoiHubPreview'
+import DaNangHubPreview from '@/sections/danang-hub/DaNangHubPreview'
+import { PortfolioLayout } from '@/shell/PortfolioLayout'
 
 export const router = createBrowserRouter([
   {
@@ -20,6 +24,23 @@ export const router = createBrowserRouter([
   {
     path: '/design',
     element: <DesignPage />,
+  },
+  {
+    element: <PortfolioLayout />,
+    children: [
+      {
+        path: '/hcmc',
+        element: <HCMCHubPreview />,
+      },
+      {
+        path: '/hanoi',
+        element: <HanoiHubPreview />,
+      },
+      {
+        path: '/danang',
+        element: <DaNangHubPreview />,
+      },
+    ]
   },
   {
     path: '/sections',

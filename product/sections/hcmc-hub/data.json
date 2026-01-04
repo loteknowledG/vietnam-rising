@@ -1,0 +1,154 @@
+{
+    "_meta": {
+        "models": {
+            "city": "The HCMC urban hub metadata, including Landmark 81 height and branding.",
+            "job": "React developer listings scraped from major platforms, mapped to specific building floors for the descent interaction.",
+            "platform": "The originating source of the job data (LinkedIn or ITViec)."
+        },
+        "relationships": [
+            "The HCMC City contains many Job listings",
+            "Each Job listing belongs to a specific Platform source"
+        ]
+    },
+    "city": {
+        "id": "hcmc",
+        "name": "Ho Chi Minh City",
+        "skyscraper": "Landmark 81",
+        "totalFloors": 81,
+        "descentSpeed": "standard"
+    },
+    "platforms": [
+        {
+            "id": "linkedin",
+            "name": "LinkedIn",
+            "url": "https://linkedin.com"
+        },
+        {
+            "id": "itviec",
+            "name": "ITViec",
+            "url": "https://itviec.com"
+        }
+    ],
+    "jobs": [
+        {
+            "id": "hcmc-001",
+            "title": "Senior React Engineer",
+            "company": "VNG Corporation",
+            "salary": "$2,500 - $4,000",
+            "location": "District 7, HCMC",
+            "postedDate": "2026-01-04",
+            "platformId": "linkedin",
+            "floorNumber": 78,
+            "officeAttributes": {
+                "vibe": "High-Tech Collaboration",
+                "occupancy": "85%"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4325600081"
+        },
+        {
+            "id": "hcmc-002",
+            "title": "Frontend Lead (React/Next.js)",
+            "company": "Ahamove",
+            "salary": "$3,000 - $4,500",
+            "location": "District 10, HCMC",
+            "postedDate": "2026-01-03",
+            "platformId": "itviec",
+            "floorNumber": 68,
+            "officeAttributes": {
+                "vibe": "Fast-Paced Logistics",
+                "occupancy": "90%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/frontend-lead"
+        },
+        {
+            "id": "hcmc-003",
+            "title": "Middle React Developer",
+            "company": "FPT Software",
+            "salary": "$1,800 - $2,800",
+            "location": "District 9, HCMC",
+            "postedDate": "2026-01-02",
+            "platformId": "itviec",
+            "floorNumber": 55,
+            "officeAttributes": {
+                "vibe": "Corporate Innovation",
+                "occupancy": "70%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/react-dev-fpt"
+        },
+        {
+            "id": "hcmc-004",
+            "title": "React Native Specialist",
+            "company": "MoMo (M-Service)",
+            "salary": "$2,500 - $3,800",
+            "location": "District 7, HCMC",
+            "postedDate": "2026-01-02",
+            "platformId": "linkedin",
+            "floorNumber": 42,
+            "officeAttributes": {
+                "vibe": "Fintech Dynamic",
+                "occupancy": "95%"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/momo-react"
+        },
+        {
+            "id": "hcmc-005",
+            "title": "Junior React Developer",
+            "company": "Tiki.vn",
+            "salary": "$1,200 - $1,800",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2026-01-01",
+            "platformId": "itviec",
+            "floorNumber": 30,
+            "officeAttributes": {
+                "vibe": "E-commerce Growth",
+                "occupancy": "60%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/junior-react-tiki"
+        },
+        {
+            "id": "hcmc-006",
+            "title": "Staff Frontend Engineer",
+            "company": "Grab Vietnam",
+            "salary": "Top-tier Market Rate",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-12-31",
+            "platformId": "linkedin",
+            "floorNumber": 18,
+            "officeAttributes": {
+                "vibe": "Global Tech Hub",
+                "occupancy": "Full"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/grab-staff"
+        },
+        {
+            "id": "hcmc-007",
+            "title": "React/Node Fullstack",
+            "company": "KMS Technology",
+            "salary": "$2,000 - $3,200",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-12-30",
+            "platformId": "itviec",
+            "floorNumber": 10,
+            "officeAttributes": {
+                "vibe": "Agile Services",
+                "occupancy": "80%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/kms-fullstack"
+        },
+        {
+            "id": "hcmc-008",
+            "title": "UI Engineer (React Expert)",
+            "company": "NAB Innovation Centre",
+            "salary": "$3,500+",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-12-29",
+            "platformId": "linkedin",
+            "floorNumber": 5,
+            "officeAttributes": {
+                "vibe": "Banking Stability",
+                "occupancy": "100%"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/nab-ui"
+        }
+    ]
+}
