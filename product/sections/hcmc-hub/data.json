@@ -1,0 +1,1338 @@
+{
+    "_meta": {
+        "models": {
+            "city": "HCMC Hub Metadata",
+            "job": "Job Listing",
+            "platform": "Source Platform"
+        }
+    },
+    "city": {
+        "id": "hcmc",
+        "name": "Ho Chi Minh City",
+        "skyscraper": "Landmark 81",
+        "totalFloors": 81,
+        "descentSpeed": "standard"
+    },
+    "platforms": [
+        {
+            "id": "indeed",
+            "name": "Indeed Vietnam",
+            "url": "https://jobs.vn.indeed.com"
+        },
+        {
+            "id": "linkedin",
+            "name": "LinkedIn",
+            "url": "https://linkedin.com"
+        },
+        {
+            "id": "itviec",
+            "name": "ITViec",
+            "url": "https://itviec.com"
+        }
+    ],
+    "jobs": [
+        {
+            "id": "hcmc-100",
+            "title": "Senior Frontend Engineer - Payment Tech",
+            "company": "Binance",
+            "salary": "Competitive",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-10-15",
+            "platformId": "indeed",
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=42ddc18e242b6c5f",
+            "vibe": "Global Blockchain Ecosystem",
+            "description": "Binance Pay Card team is on a mission to transform digital payments. Looking for a Senior Frontend Engineer (ReactJS/NextJS) to build next-gen web and native apps.",
+            "floorNumber": 81,
+            "officeAttributes": {
+                "vibe": "Global Blockchain Ecosystem",
+                "occupancy": "95%"
+            }
+        },
+        {
+            "id": "hcmc-101",
+            "title": "Frontend Engineer (JS/ReactJS) - Captcha & SmartID",
+            "company": "NAVER Vietnam",
+            "salary": "Competitive",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-07-01",
+            "platformId": "indeed",
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=d0247d3b361dedca",
+            "vibe": "AI & Visual Experience",
+            "description": "Develop services for NAVER ecosystem including Captcha, SmartID. Strong JS/ReactJS skills required to build high-performance visual experiences.",
+            "floorNumber": 80,
+            "officeAttributes": {
+                "vibe": "AI & Visual Experience",
+                "occupancy": "78%"
+            }
+        },
+        {
+            "id": "hcmc-102",
+            "title": "Frontend Engineer (JS/ReactJS) - Naver Services",
+            "company": "NAVER Vietnam",
+            "salary": "Competitive",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2024-11-23",
+            "platformId": "indeed",
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=680566b2bd1757e3",
+            "vibe": "Large-Scale Services",
+            "description": "Join the NAVER service team to build large-scale applications. Work with modern frontend technologies to deliver seamless user experiences.",
+            "floorNumber": 79,
+            "officeAttributes": {
+                "vibe": "Large-Scale Services",
+                "occupancy": "64%"
+            }
+        },
+        {
+            "id": "hcmc-103",
+            "title": "Fresher ReactJS Developer (N4 Japanese)",
+            "company": "SPLUS JAPAN",
+            "salary": "10M - 14M VND",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-05-21",
+            "platformId": "indeed",
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=cfacd57212877fd5",
+            "vibe": "Dynamic & Professional",
+            "description": "Looking for freshers with N4 Japanese. Training provided. Opportunity to work on Japanese projects and learn professional software development processes.",
+            "floorNumber": 78,
+            "officeAttributes": {
+                "vibe": "Dynamic & Professional",
+                "occupancy": "80%"
+            }
+        },
+        {
+            "id": "hcmc-104",
+            "title": "Remote Fullstack Engineer (Go, ReactJS)",
+            "company": "Eastgate Software",
+            "salary": "Competitive",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-09-08",
+            "platformId": "indeed",
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=16894708e5e4311e",
+            "vibe": "International Projects",
+            "description": "Fullstack role (Go + ReactJS) for international clients. Work remotely on challenging projects involving complex business logic and high scalability.",
+            "floorNumber": 77,
+            "officeAttributes": {
+                "vibe": "International Projects",
+                "occupancy": "83%"
+            }
+        },
+        {
+            "id": "hcmc-105",
+            "title": "Junior Frontend ReactJS Developer",
+            "company": "Kegmil",
+            "salary": "Competitive",
+            "location": "HCMC or Remote",
+            "postedDate": "2025-09-17",
+            "platformId": "indeed",
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=a399dc558b6744cc",
+            "vibe": "Field Service Tech",
+            "description": "Kegmil is revolutionizing field service with AI. We need a Junior ReactJS dev to build user interfaces for our intelligent field service platform.",
+            "floorNumber": 76,
+            "officeAttributes": {
+                "vibe": "Field Service Tech",
+                "occupancy": "92%"
+            }
+        },
+        {
+            "id": "hcmc-106",
+            "title": "Frontend Developer (ReactJs, VueJs)",
+            "company": "Eastgate Software",
+            "salary": "$1,000 - $2,500",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2024-11-23",
+            "platformId": "indeed",
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=386fa0d7320a539e",
+            "vibe": "Software Outsourcing",
+            "description": "Mid-level frontend developer needed. Proficiency in ReactJS or VueJS. Work on outsourcing projects with clients from Europe and North America.",
+            "floorNumber": 75,
+            "officeAttributes": {
+                "vibe": "Software Outsourcing",
+                "occupancy": "72%"
+            }
+        },
+        {
+            "id": "hcmc-74",
+            "title": "Principal Engineer",
+            "company": "Traveloka",
+            "salary": "$4947",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-8",
+            "platformId": "itviec",
+            "floorNumber": 74,
+            "officeAttributes": {
+                "vibe": "Travel Tech",
+                "occupancy": "72%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's lifestyle superapp. Engineering robust travel and booking solutions. Looking for a talented Principal Engineer to join our team."
+        },
+        {
+            "id": "hcmc-73",
+            "title": "Frontend Developer",
+            "company": "One Mount Group",
+            "salary": "$4212",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-17",
+            "platformId": "linkedin",
+            "floorNumber": 73,
+            "officeAttributes": {
+                "vibe": "Strategic Ecosystem",
+                "occupancy": "75%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building Vietnam's largest digital ecosystem connecting retail, real estate, and financial services. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-72",
+            "title": "Senior React Engineer",
+            "company": "Grab Vietnam",
+            "salary": "Competitive",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-10",
+            "platformId": "itviec",
+            "floorNumber": 72,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "97%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Senior React Engineer to join our team."
+        },
+        {
+            "id": "hcmc-71",
+            "title": "Lead Frontend Developer",
+            "company": "KMS Technology",
+            "salary": "$3287",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "linkedin",
+            "floorNumber": 71,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "89%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented Lead Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-70",
+            "title": "Software Engineer (Frontend)",
+            "company": "Shopee",
+            "salary": "$2921",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-8",
+            "platformId": "linkedin",
+            "floorNumber": 70,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "66%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-69",
+            "title": "Web Developer",
+            "company": "FPT Software",
+            "salary": "$3102",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-4",
+            "platformId": "linkedin",
+            "floorNumber": 69,
+            "officeAttributes": {
+                "vibe": "Global Outsourcing",
+                "occupancy": "71%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's largest IT service provider. diverse projects with Fortune 500 clients worldwide. Looking for a talented Web Developer to join our team."
+        },
+        {
+            "id": "hcmc-68",
+            "title": "React Native Engineer",
+            "company": "Shopee",
+            "salary": "$2244",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-19",
+            "platformId": "linkedin",
+            "floorNumber": 68,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "88%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-67",
+            "title": "Principal Engineer",
+            "company": "Zalo (VNG)",
+            "salary": "$1948",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-7",
+            "platformId": "itviec",
+            "floorNumber": 67,
+            "officeAttributes": {
+                "vibe": "Super App Giant",
+                "occupancy": "62%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's premier messaging platform. Work on core communication features scaling to millions of users. Looking for a talented Principal Engineer to join our team."
+        },
+        {
+            "id": "hcmc-66",
+            "title": "React Native Engineer",
+            "company": "Shopee",
+            "salary": "Competitive",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-12",
+            "platformId": "linkedin",
+            "floorNumber": 66,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "93%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-65",
+            "title": "Software Engineer (Frontend)",
+            "company": "KMS Technology",
+            "salary": "$2663",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-16",
+            "platformId": "linkedin",
+            "floorNumber": 65,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "61%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-64",
+            "title": "React Native Engineer",
+            "company": "Employment Hero",
+            "salary": "Competitive",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "indeed",
+            "floorNumber": 64,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "64%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-63",
+            "title": "Lead Frontend Developer",
+            "company": "Anduin Transactions",
+            "salary": "$1754",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-12",
+            "platformId": "indeed",
+            "floorNumber": 63,
+            "officeAttributes": {
+                "vibe": "Silicon Valley Culture",
+                "occupancy": "94%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Revolutionizing financial transactions in private markets. Engineering-driven culture with high standards. Looking for a talented Lead Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-62",
+            "title": "Software Engineer (Frontend)",
+            "company": "Grab Vietnam",
+            "salary": "$1716",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-2",
+            "platformId": "indeed",
+            "floorNumber": 62,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "84%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-61",
+            "title": "Software Engineer (Frontend)",
+            "company": "KMS Technology",
+            "salary": "$3220",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-20",
+            "platformId": "indeed",
+            "floorNumber": 61,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "84%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-60",
+            "title": "Senior React Engineer",
+            "company": "Employment Hero",
+            "salary": "$4695",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-1",
+            "platformId": "itviec",
+            "floorNumber": 60,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "63%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented Senior React Engineer to join our team."
+        },
+        {
+            "id": "hcmc-59",
+            "title": "UI/UX Engineer",
+            "company": "Shopee",
+            "salary": "$2803",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-4",
+            "platformId": "linkedin",
+            "floorNumber": 59,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "84%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented UI/UX Engineer to join our team."
+        },
+        {
+            "id": "hcmc-58",
+            "title": "Full Stack Engineer",
+            "company": "Grab Vietnam",
+            "salary": "Competitive",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "itviec",
+            "floorNumber": 58,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "86%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Full Stack Engineer to join our team."
+        },
+        {
+            "id": "hcmc-57",
+            "title": "JavaScript Developer",
+            "company": "Grab Vietnam",
+            "salary": "$3908",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-7",
+            "platformId": "itviec",
+            "floorNumber": 57,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "86%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented JavaScript Developer to join our team."
+        },
+        {
+            "id": "hcmc-56",
+            "title": "Software Engineer (Frontend)",
+            "company": "Tiki",
+            "salary": "$3227",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-5",
+            "platformId": "itviec",
+            "floorNumber": 56,
+            "officeAttributes": {
+                "vibe": "E-commerce Giant",
+                "occupancy": "67%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "The all-in-one commerce platform. Building the future of retail in Vietnam with advanced logistics tech. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-55",
+            "title": "Lead Frontend Developer",
+            "company": "Grab Vietnam",
+            "salary": "$3783",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-12",
+            "platformId": "indeed",
+            "floorNumber": 55,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "99%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Lead Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-54",
+            "title": "Junior React Developer",
+            "company": "Employment Hero",
+            "salary": "$4977",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-8",
+            "platformId": "linkedin",
+            "floorNumber": 54,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "97%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented Junior React Developer to join our team."
+        },
+        {
+            "id": "hcmc-53",
+            "title": "JavaScript Developer",
+            "company": "Zalo (VNG)",
+            "salary": "$3273",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-16",
+            "platformId": "indeed",
+            "floorNumber": 53,
+            "officeAttributes": {
+                "vibe": "Super App Giant",
+                "occupancy": "83%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's premier messaging platform. Work on core communication features scaling to millions of users. Looking for a talented JavaScript Developer to join our team."
+        },
+        {
+            "id": "hcmc-52",
+            "title": "Frontend Developer",
+            "company": "Tiki",
+            "salary": "$1376",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-16",
+            "platformId": "indeed",
+            "floorNumber": 52,
+            "officeAttributes": {
+                "vibe": "E-commerce Giant",
+                "occupancy": "94%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "The all-in-one commerce platform. Building the future of retail in Vietnam with advanced logistics tech. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-51",
+            "title": "Full Stack Engineer",
+            "company": "Employment Hero",
+            "salary": "$4356",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-17",
+            "platformId": "linkedin",
+            "floorNumber": 51,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "86%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented Full Stack Engineer to join our team."
+        },
+        {
+            "id": "hcmc-50",
+            "title": "Frontend Developer",
+            "company": "Employment Hero",
+            "salary": "$3108",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-3",
+            "platformId": "indeed",
+            "floorNumber": 50,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "97%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-49",
+            "title": "Software Engineer (Frontend)",
+            "company": "KMS Technology",
+            "salary": "$4341",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-11",
+            "platformId": "linkedin",
+            "floorNumber": 49,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "61%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-48",
+            "title": "Junior React Developer",
+            "company": "One Mount Group",
+            "salary": "$3305",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-20",
+            "platformId": "itviec",
+            "floorNumber": 48,
+            "officeAttributes": {
+                "vibe": "Strategic Ecosystem",
+                "occupancy": "62%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building Vietnam's largest digital ecosystem connecting retail, real estate, and financial services. Looking for a talented Junior React Developer to join our team."
+        },
+        {
+            "id": "hcmc-47",
+            "title": "Frontend Developer",
+            "company": "Grab Vietnam",
+            "salary": "Competitive",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-19",
+            "platformId": "indeed",
+            "floorNumber": 47,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "69%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-46",
+            "title": "React Native Engineer",
+            "company": "Traveloka",
+            "salary": "$2312",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-12",
+            "platformId": "indeed",
+            "floorNumber": 46,
+            "officeAttributes": {
+                "vibe": "Travel Tech",
+                "occupancy": "66%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's lifestyle superapp. Engineering robust travel and booking solutions. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-45",
+            "title": "UI/UX Engineer",
+            "company": "Shopee",
+            "salary": "Competitive",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-2",
+            "platformId": "itviec",
+            "floorNumber": 45,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "88%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented UI/UX Engineer to join our team."
+        },
+        {
+            "id": "hcmc-44",
+            "title": "Principal Engineer",
+            "company": "Grab Vietnam",
+            "salary": "Competitive",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-7",
+            "platformId": "indeed",
+            "floorNumber": 44,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "71%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Principal Engineer to join our team."
+        },
+        {
+            "id": "hcmc-43",
+            "title": "JavaScript Developer",
+            "company": "Anduin Transactions",
+            "salary": "$3721",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "indeed",
+            "floorNumber": 43,
+            "officeAttributes": {
+                "vibe": "Silicon Valley Culture",
+                "occupancy": "65%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Revolutionizing financial transactions in private markets. Engineering-driven culture with high standards. Looking for a talented JavaScript Developer to join our team."
+        },
+        {
+            "id": "hcmc-42",
+            "title": "UI/UX Engineer",
+            "company": "Employment Hero",
+            "salary": "$1856",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-12",
+            "platformId": "indeed",
+            "floorNumber": 42,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "67%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented UI/UX Engineer to join our team."
+        },
+        {
+            "id": "hcmc-41",
+            "title": "Frontend Developer",
+            "company": "Grab Vietnam",
+            "salary": "Competitive",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-2",
+            "platformId": "linkedin",
+            "floorNumber": 41,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "71%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-40",
+            "title": "UI/UX Engineer",
+            "company": "FPT Software",
+            "salary": "$1470",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-14",
+            "platformId": "indeed",
+            "floorNumber": 40,
+            "officeAttributes": {
+                "vibe": "Global Outsourcing",
+                "occupancy": "88%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's largest IT service provider. diverse projects with Fortune 500 clients worldwide. Looking for a talented UI/UX Engineer to join our team."
+        },
+        {
+            "id": "hcmc-39",
+            "title": "Software Engineer (Frontend)",
+            "company": "Anduin Transactions",
+            "salary": "Competitive",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-11",
+            "platformId": "indeed",
+            "floorNumber": 39,
+            "officeAttributes": {
+                "vibe": "Silicon Valley Culture",
+                "occupancy": "82%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Revolutionizing financial transactions in private markets. Engineering-driven culture with high standards. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-38",
+            "title": "React Native Engineer",
+            "company": "MoMo (M_Service)",
+            "salary": "$4185",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-5",
+            "platformId": "indeed",
+            "floorNumber": 38,
+            "officeAttributes": {
+                "vibe": "FinTech Unicorn",
+                "occupancy": "63%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building the financial super app for Vietnam. High-growth, data-driven environment. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-37",
+            "title": "Junior React Developer",
+            "company": "Gojek",
+            "salary": "$4467",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-3",
+            "platformId": "itviec",
+            "floorNumber": 37,
+            "officeAttributes": {
+                "vibe": "Super App",
+                "occupancy": "97%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "On-demand multi-service platform. Fast-paced environment solving complex urban mobility problems. Looking for a talented Junior React Developer to join our team."
+        },
+        {
+            "id": "hcmc-36",
+            "title": "Principal Engineer",
+            "company": "One Mount Group",
+            "salary": "$1964",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-2",
+            "platformId": "itviec",
+            "floorNumber": 36,
+            "officeAttributes": {
+                "vibe": "Strategic Ecosystem",
+                "occupancy": "71%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building Vietnam's largest digital ecosystem connecting retail, real estate, and financial services. Looking for a talented Principal Engineer to join our team."
+        },
+        {
+            "id": "hcmc-35",
+            "title": "UI/UX Engineer",
+            "company": "Anduin Transactions",
+            "salary": "Competitive",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "itviec",
+            "floorNumber": 35,
+            "officeAttributes": {
+                "vibe": "Silicon Valley Culture",
+                "occupancy": "92%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Revolutionizing financial transactions in private markets. Engineering-driven culture with high standards. Looking for a talented UI/UX Engineer to join our team."
+        },
+        {
+            "id": "hcmc-34",
+            "title": "Full Stack Engineer",
+            "company": "Grab Vietnam",
+            "salary": "$4539",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-5",
+            "platformId": "indeed",
+            "floorNumber": 34,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "86%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Full Stack Engineer to join our team."
+        },
+        {
+            "id": "hcmc-33",
+            "title": "React Native Engineer",
+            "company": "Tiki",
+            "salary": "$2884",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "linkedin",
+            "floorNumber": 33,
+            "officeAttributes": {
+                "vibe": "E-commerce Giant",
+                "occupancy": "77%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "The all-in-one commerce platform. Building the future of retail in Vietnam with advanced logistics tech. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-32",
+            "title": "UI/UX Engineer",
+            "company": "Shopee",
+            "salary": "$2249",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-11",
+            "platformId": "indeed",
+            "floorNumber": 32,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "82%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented UI/UX Engineer to join our team."
+        },
+        {
+            "id": "hcmc-31",
+            "title": "Web Developer",
+            "company": "Gojek",
+            "salary": "$1475",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-8",
+            "platformId": "itviec",
+            "floorNumber": 31,
+            "officeAttributes": {
+                "vibe": "Super App",
+                "occupancy": "77%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "On-demand multi-service platform. Fast-paced environment solving complex urban mobility problems. Looking for a talented Web Developer to join our team."
+        },
+        {
+            "id": "hcmc-30",
+            "title": "Frontend Developer",
+            "company": "Traveloka",
+            "salary": "$3727",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-9",
+            "platformId": "itviec",
+            "floorNumber": 30,
+            "officeAttributes": {
+                "vibe": "Travel Tech",
+                "occupancy": "97%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's lifestyle superapp. Engineering robust travel and booking solutions. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-29",
+            "title": "Software Engineer (Frontend)",
+            "company": "Zalo (VNG)",
+            "salary": "$2704",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-5",
+            "platformId": "itviec",
+            "floorNumber": 29,
+            "officeAttributes": {
+                "vibe": "Super App Giant",
+                "occupancy": "93%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's premier messaging platform. Work on core communication features scaling to millions of users. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-28",
+            "title": "React Native Engineer",
+            "company": "Grab Vietnam",
+            "salary": "$3100",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-10",
+            "platformId": "linkedin",
+            "floorNumber": 28,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "88%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-27",
+            "title": "Principal Engineer",
+            "company": "MoMo (M_Service)",
+            "salary": "$3058",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-13",
+            "platformId": "linkedin",
+            "floorNumber": 27,
+            "officeAttributes": {
+                "vibe": "FinTech Unicorn",
+                "occupancy": "67%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building the financial super app for Vietnam. High-growth, data-driven environment. Looking for a talented Principal Engineer to join our team."
+        },
+        {
+            "id": "hcmc-26",
+            "title": "Frontend Developer",
+            "company": "KMS Technology",
+            "salary": "$1934",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "itviec",
+            "floorNumber": 26,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "73%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-25",
+            "title": "Software Engineer (Frontend)",
+            "company": "Shopee",
+            "salary": "Competitive",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-17",
+            "platformId": "linkedin",
+            "floorNumber": 25,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "78%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-24",
+            "title": "Senior React Engineer",
+            "company": "Gojek",
+            "salary": "$2708",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-13",
+            "platformId": "linkedin",
+            "floorNumber": 24,
+            "officeAttributes": {
+                "vibe": "Super App",
+                "occupancy": "84%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "On-demand multi-service platform. Fast-paced environment solving complex urban mobility problems. Looking for a talented Senior React Engineer to join our team."
+        },
+        {
+            "id": "hcmc-23",
+            "title": "Lead Frontend Developer",
+            "company": "One Mount Group",
+            "salary": "Competitive",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-13",
+            "platformId": "linkedin",
+            "floorNumber": 23,
+            "officeAttributes": {
+                "vibe": "Strategic Ecosystem",
+                "occupancy": "69%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building Vietnam's largest digital ecosystem connecting retail, real estate, and financial services. Looking for a talented Lead Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-22",
+            "title": "JavaScript Developer",
+            "company": "Ninja Van",
+            "salary": "Competitive",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-16",
+            "platformId": "itviec",
+            "floorNumber": 22,
+            "officeAttributes": {
+                "vibe": "Logistics Tech",
+                "occupancy": "69%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Tech-enabled logistics. detailed tracking and optimization systems for last-mile delivery. Looking for a talented JavaScript Developer to join our team."
+        },
+        {
+            "id": "hcmc-21",
+            "title": "UI/UX Engineer",
+            "company": "Anduin Transactions",
+            "salary": "$2604",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-11",
+            "platformId": "itviec",
+            "floorNumber": 21,
+            "officeAttributes": {
+                "vibe": "Silicon Valley Culture",
+                "occupancy": "70%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Revolutionizing financial transactions in private markets. Engineering-driven culture with high standards. Looking for a talented UI/UX Engineer to join our team."
+        },
+        {
+            "id": "hcmc-20",
+            "title": "Lead Frontend Developer",
+            "company": "KMS Technology",
+            "salary": "Competitive",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-5",
+            "platformId": "linkedin",
+            "floorNumber": 20,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "71%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented Lead Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-19",
+            "title": "Junior React Developer",
+            "company": "Grab Vietnam",
+            "salary": "Competitive",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-6",
+            "platformId": "linkedin",
+            "floorNumber": 19,
+            "officeAttributes": {
+                "vibe": "Regional Decacorn",
+                "occupancy": "85%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's leading super app. Solving real-world transport and delivery challenges at massive scale. Looking for a talented Junior React Developer to join our team."
+        },
+        {
+            "id": "hcmc-18",
+            "title": "React Native Engineer",
+            "company": "Shopee",
+            "salary": "$3968",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-10",
+            "platformId": "linkedin",
+            "floorNumber": 18,
+            "officeAttributes": {
+                "vibe": "E-commerce Leader",
+                "occupancy": "77%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Leading e-commerce platform in SEA/Taiwan. Data-intensive environment focused on user engagement. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-17",
+            "title": "Software Engineer (Frontend)",
+            "company": "Employment Hero",
+            "salary": "Competitive",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-5",
+            "platformId": "indeed",
+            "floorNumber": 17,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "78%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-16",
+            "title": "React Native Engineer",
+            "company": "KMS Technology",
+            "salary": "Competitive",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-8",
+            "platformId": "indeed",
+            "floorNumber": 16,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "76%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-15",
+            "title": "Senior React Engineer",
+            "company": "MoMo (M_Service)",
+            "salary": "Competitive",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-5",
+            "platformId": "itviec",
+            "floorNumber": 15,
+            "officeAttributes": {
+                "vibe": "FinTech Unicorn",
+                "occupancy": "71%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building the financial super app for Vietnam. High-growth, data-driven environment. Looking for a talented Senior React Engineer to join our team."
+        },
+        {
+            "id": "hcmc-14",
+            "title": "React Native Engineer",
+            "company": "Zalo (VNG)",
+            "salary": "$3727",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-19",
+            "platformId": "linkedin",
+            "floorNumber": 14,
+            "officeAttributes": {
+                "vibe": "Super App Giant",
+                "occupancy": "73%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's premier messaging platform. Work on core communication features scaling to millions of users. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-13",
+            "title": "Web Developer",
+            "company": "Gojek",
+            "salary": "$4407",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-12",
+            "platformId": "indeed",
+            "floorNumber": 13,
+            "officeAttributes": {
+                "vibe": "Super App",
+                "occupancy": "75%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "On-demand multi-service platform. Fast-paced environment solving complex urban mobility problems. Looking for a talented Web Developer to join our team."
+        },
+        {
+            "id": "hcmc-12",
+            "title": "Frontend Developer",
+            "company": "One Mount Group",
+            "salary": "Competitive",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-17",
+            "platformId": "itviec",
+            "floorNumber": 12,
+            "officeAttributes": {
+                "vibe": "Strategic Ecosystem",
+                "occupancy": "68%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building Vietnam's largest digital ecosystem connecting retail, real estate, and financial services. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-11",
+            "title": "React Native Engineer",
+            "company": "Zalo (VNG)",
+            "salary": "Competitive",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-20",
+            "platformId": "indeed",
+            "floorNumber": 11,
+            "officeAttributes": {
+                "vibe": "Super App Giant",
+                "occupancy": "67%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's premier messaging platform. Work on core communication features scaling to millions of users. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-10",
+            "title": "React Native Engineer",
+            "company": "Anduin Transactions",
+            "salary": "$4723",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-13",
+            "platformId": "itviec",
+            "floorNumber": 10,
+            "officeAttributes": {
+                "vibe": "Silicon Valley Culture",
+                "occupancy": "91%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Revolutionizing financial transactions in private markets. Engineering-driven culture with high standards. Looking for a talented React Native Engineer to join our team."
+        },
+        {
+            "id": "hcmc-9",
+            "title": "Senior React Engineer",
+            "company": "Gojek",
+            "salary": "$4240",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-1",
+            "platformId": "indeed",
+            "floorNumber": 9,
+            "officeAttributes": {
+                "vibe": "Super App",
+                "occupancy": "99%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "On-demand multi-service platform. Fast-paced environment solving complex urban mobility problems. Looking for a talented Senior React Engineer to join our team."
+        },
+        {
+            "id": "hcmc-8",
+            "title": "Principal Engineer",
+            "company": "FPT Software",
+            "salary": "Competitive",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-13",
+            "platformId": "itviec",
+            "floorNumber": 8,
+            "officeAttributes": {
+                "vibe": "Global Outsourcing",
+                "occupancy": "62%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's largest IT service provider. diverse projects with Fortune 500 clients worldwide. Looking for a talented Principal Engineer to join our team."
+        },
+        {
+            "id": "hcmc-7",
+            "title": "Lead Frontend Developer",
+            "company": "MoMo (M_Service)",
+            "salary": "Competitive",
+            "location": "Hi-Tech Park, HCMC",
+            "postedDate": "2025-10-14",
+            "platformId": "linkedin",
+            "floorNumber": 7,
+            "officeAttributes": {
+                "vibe": "FinTech Unicorn",
+                "occupancy": "83%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Building the financial super app for Vietnam. High-growth, data-driven environment. Looking for a talented Lead Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-6",
+            "title": "Full Stack Engineer",
+            "company": "Zalo (VNG)",
+            "salary": "$3230",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-16",
+            "platformId": "linkedin",
+            "floorNumber": 6,
+            "officeAttributes": {
+                "vibe": "Super App Giant",
+                "occupancy": "97%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Vietnam's premier messaging platform. Work on core communication features scaling to millions of users. Looking for a talented Full Stack Engineer to join our team."
+        },
+        {
+            "id": "hcmc-5",
+            "title": "JavaScript Developer",
+            "company": "Employment Hero",
+            "salary": "$4394",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-10",
+            "platformId": "linkedin",
+            "floorNumber": 5,
+            "officeAttributes": {
+                "vibe": "HR Tech",
+                "occupancy": "74%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Australian HR powerhouse. Building a better world at work with comprehensive HR, payroll, and benefits software. Looking for a talented JavaScript Developer to join our team."
+        },
+        {
+            "id": "hcmc-4",
+            "title": "Frontend Developer",
+            "company": "Traveloka",
+            "salary": "Competitive",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-2",
+            "platformId": "itviec",
+            "floorNumber": 4,
+            "officeAttributes": {
+                "vibe": "Travel Tech",
+                "occupancy": "82%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Southeast Asia's lifestyle superapp. Engineering robust travel and booking solutions. Looking for a talented Frontend Developer to join our team."
+        },
+        {
+            "id": "hcmc-3",
+            "title": "Senior React Engineer",
+            "company": "KMS Technology",
+            "salary": "$4312",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-10-11",
+            "platformId": "indeed",
+            "floorNumber": 3,
+            "officeAttributes": {
+                "vibe": "Product Innovation",
+                "occupancy": "71%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Software product incubation and services. Innovative culture with a focus on cutting-edge tech. Looking for a talented Senior React Engineer to join our team."
+        },
+        {
+            "id": "hcmc-2",
+            "title": "Software Engineer (Frontend)",
+            "company": "Ninja Van",
+            "salary": "$2810",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-19",
+            "platformId": "indeed",
+            "floorNumber": 2,
+            "officeAttributes": {
+                "vibe": "Logistics Tech",
+                "occupancy": "93%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "Tech-enabled logistics. detailed tracking and optimization systems for last-mile delivery. Looking for a talented Software Engineer (Frontend) to join our team."
+        },
+        {
+            "id": "hcmc-1",
+            "title": "Web Developer",
+            "company": "Tiki",
+            "salary": "Competitive",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-20",
+            "platformId": "linkedin",
+            "floorNumber": 1,
+            "officeAttributes": {
+                "vibe": "E-commerce Giant",
+                "occupancy": "73%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com",
+            "description": "The all-in-one commerce platform. Building the future of retail in Vietnam with advanced logistics tech. Looking for a talented Web Developer to join our team."
+        }
+    ]
+}

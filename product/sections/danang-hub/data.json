@@ -1,0 +1,159 @@
+{
+    "_meta": {
+        "models": {
+            "city": "The Da Nang urban hub metadata, including Landmark Tower height and branding.",
+            "job": "React developer listings for Da Nang, mapped to building floors for the ascent interaction.",
+            "platform": "The source platform (LinkedIn or ITViec)."
+        },
+        "relationships": [
+            "Da Nang City contains many Job listings",
+            "Each Job listing belongs to a specific Platform source"
+        ]
+    },
+    "city": {
+        "id": "danang",
+        "name": "Da Nang",
+        "skyscraper": "Landmark Tower",
+        "totalFloors": 69,
+        "ascentSpeed": "standard"
+    },
+    "platforms": [
+        {
+            "id": "indeed",
+            "name": "Indeed Vietnam",
+            "url": "https://jobs.vn.indeed.com"
+        },
+        {
+            "id": "linkedin",
+            "name": "LinkedIn",
+            "url": "https://linkedin.com"
+        },
+        {
+            "id": "itviec",
+            "name": "ITViec",
+            "url": "https://itviec.com"
+        }
+    ],
+    "jobs": [
+        {
+            "id": "danang-001",
+            "title": "Full-Stack (.Net/ReactJS) Software Engineer",
+            "company": "KMS Technology",
+            "salary": "$2,000 - $3,500",
+            "location": "Ðà Nẵng",
+            "postedDate": "2026-01-04",
+            "platformId": "indeed",
+            "floorNumber": 8,
+            "officeAttributes": {
+                "vibe": "Enterprise Software",
+                "occupancy": "90%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=kms-fullstack-danang"
+        },
+        {
+            "id": "danang-002",
+            "title": "Senior Fullstack Engineer (Python, ReactJS)",
+            "company": "Collaboration Betters the World",
+            "salary": "$2,500 - $4,000",
+            "location": "Ðà Nẵng",
+            "postedDate": "2026-01-03",
+            "platformId": "indeed",
+            "floorNumber": 18,
+            "officeAttributes": {
+                "vibe": "Global Collaboration",
+                "occupancy": "85%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=cbtw-senior-fullstack"
+        },
+        {
+            "id": "danang-003",
+            "title": "Senior/Middle Frontend Developer (VueJS/ReactJS)",
+            "company": "Hodfords",
+            "salary": "$1,800 - $3,200",
+            "location": "Ðà Nẵng",
+            "postedDate": "2026-01-02",
+            "platformId": "indeed",
+            "floorNumber": 28,
+            "officeAttributes": {
+                "vibe": "E-commerce Platform",
+                "occupancy": "80%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=hodfords-frontend"
+        },
+        {
+            "id": "danang-004",
+            "title": "ReactJS/NodeJS Developer",
+            "company": "Code Engine Studio",
+            "salary": "$1,500 - $2,800",
+            "location": "Ðà Nẵng",
+            "postedDate": "2026-01-01",
+            "platformId": "indeed",
+            "floorNumber": 38,
+            "officeAttributes": {
+                "vibe": "Digital Studio",
+                "occupancy": "75%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=code-engine-react-node"
+        },
+        {
+            "id": "danang-005",
+            "title": "Intermediate Full-Stack Developer",
+            "company": "Xenia Tech",
+            "salary": "$1,800 - $2,500",
+            "location": "Ðà Nẵng",
+            "postedDate": "2025-12-31",
+            "platformId": "indeed",
+            "floorNumber": 48,
+            "officeAttributes": {
+                "vibe": "Disruptive Tech Startup",
+                "occupancy": "70%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=xenia-fullstack"
+        },
+        {
+            "id": "danang-006",
+            "title": "Senior Full Stack Developer (Ruby/NodeJS/Go/PHP/Python)",
+            "company": "Nimble",
+            "salary": "$3,000 - $5,000",
+            "location": "Ðà Nẵng (Hybrid)",
+            "postedDate": "2025-12-30",
+            "platformId": "indeed",
+            "floorNumber": 58,
+            "officeAttributes": {
+                "vibe": "Agile Consultancy",
+                "occupancy": "85%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=nimble-senior-fullstack"
+        },
+        {
+            "id": "danang-007",
+            "title": "(Mid/Sr) Java Developer (ReactJS, J2EE, Spring boot)",
+            "company": "Aperia Solutions Viet Nam",
+            "salary": "$2,200 - $3,800",
+            "location": "Ðà Nẵng",
+            "postedDate": "2025-12-29",
+            "platformId": "indeed",
+            "floorNumber": 65,
+            "officeAttributes": {
+                "vibe": "Enterprise Solutions",
+                "occupancy": "90%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=aperia-java-react"
+        },
+        {
+            "id": "danang-008",
+            "title": "Lập trình viên FullStack (PHP/Laravel/Nodejs/React)",
+            "company": "HeySheep",
+            "salary": "$1,500 - $2,500",
+            "location": "Ðà Nẵng",
+            "postedDate": "2025-12-28",
+            "platformId": "indeed",
+            "floorNumber": 12,
+            "officeAttributes": {
+                "vibe": "Local Startup",
+                "occupancy": "65%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/viewjob?jk=heysheep-fullstack"
+        }
+    ]
+}

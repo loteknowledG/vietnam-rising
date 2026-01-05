@@ -1,0 +1,139 @@
+{
+    "_meta": {
+        "models": {
+            "city": "The Hanoi urban hub metadata, including Landmark 72 height and branding.",
+            "job": "React developer listings for Hanoi, mapped to building floors for the ascent interaction.",
+            "platform": "The source platform (LinkedIn or ITViec)."
+        },
+        "relationships": [
+            "Hanoi City contains many Job listings",
+            "Each Job listing belongs to a specific Platform source"
+        ]
+    },
+    "city": {
+        "id": "hanoi",
+        "name": "Hanoi",
+        "skyscraper": "Landmark 72",
+        "totalFloors": 72,
+        "ascentSpeed": "standard"
+    },
+    "platforms": [
+        {
+            "id": "linkedin",
+            "name": "LinkedIn",
+            "url": "https://linkedin.com"
+        },
+        {
+            "id": "itviec",
+            "name": "ITViec",
+            "url": "https://itviec.com"
+        }
+    ],
+    "jobs": [
+        {
+            "id": "hanoi-001",
+            "title": "Senior Frontend Developer (React)",
+            "company": "FPT Software",
+            "salary": "$2,200 - $3,500",
+            "location": "Duy Tan, Hanoi",
+            "postedDate": "2026-01-04",
+            "platformId": "itviec",
+            "floorNumber": 5,
+            "officeAttributes": {
+                "vibe": "Global Outsourcing Giant",
+                "occupancy": "95%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/senior-react-fpt"
+        },
+        {
+            "id": "hanoi-002",
+            "title": "React Team Lead",
+            "company": "Viettel Group",
+            "salary": "Top-tier Local Rate",
+            "location": "Linh Dam, Hanoi",
+            "postedDate": "2026-01-03",
+            "platformId": "linkedin",
+            "floorNumber": 15,
+            "officeAttributes": {
+                "vibe": "Enterprise Stability",
+                "occupancy": "100%"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/viettel-react"
+        },
+        {
+            "id": "hanoi-003",
+            "title": "React Native Specialist",
+            "company": "Sun* Inc.",
+            "salary": "$2,000 - $3,000",
+            "location": "Cau Giay, Hanoi",
+            "postedDate": "2026-01-03",
+            "platformId": "itviec",
+            "floorNumber": 28,
+            "officeAttributes": {
+                "vibe": "Agile Startup Spirit",
+                "occupancy": "80%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/sun-react-native"
+        },
+        {
+            "id": "hanoi-004",
+            "title": "Middle React Developer",
+            "company": "CMC Global",
+            "salary": "$1,500 - $2,500",
+            "location": "Duy Tan, Hanoi",
+            "postedDate": "2026-01-02",
+            "platformId": "linkedin",
+            "floorNumber": 40,
+            "officeAttributes": {
+                "vibe": "Professional Services",
+                "occupancy": "75%"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/cmc-react"
+        },
+        {
+            "id": "hanoi-005",
+            "title": "Lead Software Engineer (Next.js)",
+            "company": "VinGroup (VinAI)",
+            "salary": "$4,000+",
+            "location": "Vinhomes Ocean Park, Hanoi",
+            "postedDate": "2026-01-01",
+            "platformId": "itviec",
+            "floorNumber": 52,
+            "officeAttributes": {
+                "vibe": "AI Research Lab",
+                "occupancy": "65%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/vinai-frontend"
+        },
+        {
+            "id": "hanoi-006",
+            "title": "React Developer (Japanese Speaking)",
+            "company": "Rikkeisoft",
+            "salary": "$1,800 - $2,800",
+            "location": "Nam Tu Liem, Hanoi",
+            "postedDate": "2025-12-31",
+            "platformId": "linkedin",
+            "floorNumber": 62,
+            "officeAttributes": {
+                "vibe": "International Bridge",
+                "occupancy": "85%"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/rikkei-react"
+        },
+        {
+            "id": "hanoi-007",
+            "title": "Principle Product Engineer",
+            "company": "Base.vn",
+            "salary": "Stock Options + Competitive",
+            "location": "Dong Da, Hanoi",
+            "postedDate": "2025-12-30",
+            "platformId": "itviec",
+            "floorNumber": 70,
+            "officeAttributes": {
+                "vibe": "SaaS Innovation Hub",
+                "occupancy": "90%"
+            },
+            "sourceUrl": "https://itviec.com/it-jobs/base-react-lead"
+        }
+    ]
+}
