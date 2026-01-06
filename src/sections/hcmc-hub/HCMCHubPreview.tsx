@@ -11,7 +11,7 @@ import { useEffect, useMemo, useState } from 'react'
 export default function HCMCHubPreview() {
     // Cast data since it's imported from JSON
     const cityData = data.city as unknown as City
-    const fallbackJobsData = data.jobs as unknown as Job[]
+    const fallbackJobsData = useMemo(() => data.jobs as unknown as Job[], [])
     const platformsData = data.platforms as unknown as Platform[]
 
     const [jobsData, setJobsData] = useState<Job[]>(() => {
@@ -56,7 +56,7 @@ export default function HCMCHubPreview() {
         return () => {
             cancelled = true
         }
-    }, [feedUrl, cityData])
+    }, [feedUrl, cityData, fallbackJobsData])
 
     return (
         <HCMCHub

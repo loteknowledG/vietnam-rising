@@ -6,8 +6,9 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
   plugins: [react(), tailwindcss()],
-  // GitHub Pages serves the app under /<repo>/, but dev should stay at /
-  base: command === 'build' ? '/loising-design-os/' : '/',
+  // Build with relative asset paths so GitHub Pages works under any subpath.
+  // (Hash routing below avoids deep-link refresh issues.)
+  base: command === 'build' ? './' : '/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),

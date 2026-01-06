@@ -23,10 +23,9 @@ const dataFiles = import.meta.glob('/product/sections/*/data.json', {
 }) as Record<string, { default: Record<string, unknown> }>
 
 // Load screen design components from src/sections lazily
-const screenDesignModules = import.meta.glob('/src/sections/*/*.tsx') as Record<
-  string,
-  () => Promise<{ default: ComponentType }>
->
+const screenDesignModules = import.meta.glob('/src/sections/*/*.tsx', {
+  eager: true,
+}) as Record<string, { default: ComponentType }>
 
 // Load screenshot files from product/sections at build time
 const screenshotFiles = import.meta.glob('/product/sections/*/*.png', {
@@ -196,7 +195,9 @@ export function loadScreenDesignComponent(
   screenDesignName: string
 ): (() => Promise<{ default: ComponentType }>) | null {
   const path = `/src/sections/${sectionId}/${screenDesignName}.tsx`
-  return screenDesignModules[path] || null
+  const mod = screenDesignModules[path]
+  if (!mod) return null
+  return async () => mod
 }
 
 /**

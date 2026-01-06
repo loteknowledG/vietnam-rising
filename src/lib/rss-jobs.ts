@@ -59,7 +59,7 @@ function extractCompanyAndRole(rawTitle: string): { company: string; title: stri
     }
 
     // Fallback: try "Role - Company" or "Role | Company" patterns
-    const dashMatch = title.match(/^(.*?)\s+[-|•|\|]\s+(.*?)$/)
+    const dashMatch = title.match(/^(.*?)\s+[-•|]\s+(.*?)$/)
     if (dashMatch) {
         return {
             company: dashMatch[2].trim(),

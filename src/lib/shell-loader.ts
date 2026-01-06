@@ -13,16 +13,14 @@ const shellSpecFiles = import.meta.glob('/product/shell/*.md', {
 }) as Record<string, string>
 
 // Load shell components lazily
-const shellComponentModules = import.meta.glob('/src/shell/components/*.tsx') as Record<
-  string,
-  () => Promise<{ default: ComponentType }>
->
+const shellComponentModules = import.meta.glob('/src/shell/components/*.tsx', {
+  eager: true,
+}) as Record<string, { default: ComponentType }>
 
 // Load shell preview component lazily
-const shellPreviewModules = import.meta.glob('/src/shell/*.tsx') as Record<
-  string,
-  () => Promise<{ default: ComponentType }>
->
+const shellPreviewModules = import.meta.glob('/src/shell/*.tsx', {
+  eager: true,
+}) as Record<string, { default: ComponentType }>
 
 /**
  * Parse shell spec.md content into ShellSpec structure
@@ -104,7 +102,9 @@ export function loadShellComponent(
   componentName: string
 ): (() => Promise<{ default: ComponentType }>) | null {
   const path = `/src/shell/components/${componentName}.tsx`
-  return shellComponentModules[path] || null
+  const mod = shellComponentModules[path]
+  if (!mod) return null
+  return async () => mod
 }
 
 /**
@@ -116,18 +116,23 @@ export function loadAppShell(): (() => Promise<{ default: ComponentType<{ childr
   // First try ShellWrapper - a component specifically designed to wrap content
   const wrapperPath = '/src/shell/components/ShellWrapper.tsx'
   if (wrapperPath in shellComponentModules) {
-    return shellComponentModules[wrapperPath] as (() => Promise<{ default: ComponentType<{ children?: ReactNode }> }>)
+    const mod = shellComponentModules[wrapperPath] as { default: ComponentType<{ children?: ReactNode }> }
+    return async () => mod
   }
   // Fall back to AppShell
   const path = '/src/shell/components/AppShell.tsx'
-  return shellComponentModules[path] as (() => Promise<{ default: ComponentType<{ children?: ReactNode }> }>) || null
+  const mod = shellComponentModules[path] as { default: ComponentType<{ children?: ReactNode }> } | undefined
+  if (!mod) return null
+  return async () => mod
 }
 
 /**
  * Load shell preview wrapper dynamically
  */
 export function loadShellPreview(): (() => Promise<{ default: ComponentType }>) | null {
-  return shellPreviewModules['/src/shell/ShellPreview.tsx'] || null
+  const mod = shellPreviewModules['/src/shell/ShellPreview.tsx']
+  if (!mod) return null
+  return async () => mod
 }
 
 /**

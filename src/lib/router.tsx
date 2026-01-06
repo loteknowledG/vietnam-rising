@@ -1,4 +1,4 @@
-import { Navigate, createBrowserRouter } from 'react-router-dom'
+import { Navigate, createHashRouter } from 'react-router-dom'
 import { DataModelPage } from '@/components/DataModelPage'
 import { DesignPage } from '@/components/DesignPage'
 import { SectionsPage } from '@/components/SectionsPage'
@@ -11,7 +11,7 @@ import HanoiHubPreview from '@/sections/hanoi-hub/HanoiHubPreview'
 import DaNangHubPreview from '@/sections/danang-hub/DaNangHubPreview'
 import { PortfolioLayout } from '@/shell/PortfolioLayout'
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     path: '/',
     element: <Navigate to="/hcmc" replace />,
@@ -69,7 +69,4 @@ export const router = createBrowserRouter([
     path: '/export',
     element: <ExportPage />,
   },
-], {
-  // Match whatever Vite is built/served under (/, /<repo>/, etc.)
-  basename: import.meta.env.BASE_URL,
-})
+])
