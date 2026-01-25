@@ -21,3 +21,6 @@ dist/
 # Logs
 *.log
 npm-debug.log*
+
+# local scraper/browser profile
+/tools/linkedin-scraper/.auth/\n# Browser metrics / cached binaries\n*.pma\n# cookies and runtime metadata\ntools/linkedin-scraper/.auth/cookies.json
