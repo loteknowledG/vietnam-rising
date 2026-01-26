@@ -24,3 +24,388 @@ npm-debug.log*
 
 # local scraper/browser profile
 /tools/linkedin-scraper/.auth/\n# Browser metrics / cached binaries\n*.pma\n# cookies and runtime metadata\ntools/linkedin-scraper/.auth/cookies.json
+tools/linkedin-scraper/.auth/cookies.json
+tools/linkedin-scraper/.auth/profile/BrowserMetrics/BrowserMetrics-69757DF0-1371C.pma
+tools/linkedin-scraper/.auth/profile/BrowserMetrics/BrowserMetrics-69757E75-12CA4.pma
+tools/linkedin-scraper/.auth/profile/BrowserMetrics/BrowserMetrics-69757EA1-12BF0.pma
+tools/linkedin-scraper/.auth/profile/BrowserMetrics/BrowserMetrics-6975B639-13D44.pma
+tools/linkedin-scraper/.auth/profile/component_crx_cache/metadata.json
+tools/linkedin-scraper/.auth/profile/Crashpad/metadata
+tools/linkedin-scraper/.auth/profile/Crashpad/settings.dat
+tools/linkedin-scraper/.auth/profile/Default/Account Web Data
+tools/linkedin-scraper/.auth/profile/Default/Account Web Data-journal
+tools/linkedin-scraper/.auth/profile/Default/Affiliation Database
+tools/linkedin-scraper/.auth/profile/Default/Affiliation Database-journal
+tools/linkedin-scraper/.auth/profile/Default/AutofillAiModelCache/LOCK
+tools/linkedin-scraper/.auth/profile/Default/AutofillAiModelCache/LOG
+tools/linkedin-scraper/.auth/profile/Default/AutofillStrikeDatabase/LOCK
+tools/linkedin-scraper/.auth/profile/Default/AutofillStrikeDatabase/LOG
+tools/linkedin-scraper/.auth/profile/Default/BookmarkMergedSurfaceOrdering
+tools/linkedin-scraper/.auth/profile/Default/BudgetDatabase/LOCK
+tools/linkedin-scraper/.auth/profile/Default/BudgetDatabase/LOG
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/data_0
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/data_1
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/data_2
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/data_3
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000001
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000002
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000003
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000004
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000005
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000006
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000007
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000008
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000009
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00000a
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00000b
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00000c
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00000d
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00000e
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00000f
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000010
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000011
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000012
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000013
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000014
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000015
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000016
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000017
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000018
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000019
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00001a
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00001b
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00001c
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00001d
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_00001f
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000021
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000022
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000023
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000024
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000025
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000026
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000027
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000028
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/f_000029
+tools/linkedin-scraper/.auth/profile/Default/Cache/Cache_Data/index
+tools/linkedin-scraper/.auth/profile/Default/Cache/No_Vary_Search/journal.baj
+tools/linkedin-scraper/.auth/profile/Default/Cache/No_Vary_Search/snapshot.baf
+tools/linkedin-scraper/.auth/profile/Default/chrome_cart_db/LOCK
+tools/linkedin-scraper/.auth/profile/Default/chrome_cart_db/LOG
+tools/linkedin-scraper/.auth/profile/Default/chrome_cart_db/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/ClientCertificates/LOCK
+tools/linkedin-scraper/.auth/profile/Default/ClientCertificates/LOG
+tools/linkedin-scraper/.auth/profile/Default/ClientCertificates/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/038f2ad3f4c37976_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/0adc439ca63b445b_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/0c4e89d0b01a3336_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/0e4ad2e67a00dc24_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/0f844f68d00a119e_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/107ecd1d5d6ceec5_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/126ee63fdbd05469_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/13a4618b42bae7be_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/17bbfbddde4a82dd_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/18dee366a408d6cd_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/19ba4ac61cf5a415_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/1b5411bd0a830c48_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/1be0bd7e8f7686e1_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/1c83a0d04ac8c9af_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/2b85fd384a859d5c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/2bd02b4dafacee4b_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/2c2dfd567467d5ee_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/303c67e7b3d43346_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/3bbe4e145ed56c8c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/4228f9786b194c4a_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/443cb110c6a25103_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/44aa13965ff9a3ff_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/48f50b91a678e24c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/4a870c1f9a346fe8_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/4c5f4dc34d59e9d1_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/4d3e38c47d62dc9e_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/4dbd131494fb0dc4_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/4df370da793c9744_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/5125790cfb651076_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/5128a0d5cf4a227b_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/53625d9cca628f92_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/5541d89b50fecbaa_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/5c534e20e8d9eced_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/5f157a1a8b2cf088_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/5ffcda4ff8702d6e_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/6186dd4b6c57781e_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/619c5594839f2d0b_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/62462a336554bbc3_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/62714831f80208cb_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/63ecfa514dfb63c6_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/67271e58110dedb9_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/68960eb34fad2b1a_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/6955ca9b9a67301c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/6a378b2b0b39dad1_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/6d76ce1a2e943587_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/718d28d0354cfe42_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/732fb6d379268e34_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/750c1bfc7e69646f_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/76f4391d4a2c44de_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/77e259220e0c2ad9_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/7c4656dcf7e701b0_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/7d24b6a4f1fb0f7d_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/7d67c13a022bd718_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/7d8015191701accb_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/80689d761da95e89_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/83627b212f25afb0_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/8643893d92e7f68f_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/893c459a32b0759d_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/8a26e7e981c3b2e5_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/8d452532134902fd_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/8db97d0c8c8aa30e_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/9348db7dfc017022_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/948e74f1d55d6af7_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/9b1edccc9f6e7d2c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/9dcc71794ecaabb5_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/9e7f92fc36bf8396_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/a0ad7c20774da389_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/a528742656d2ea68_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/a58424d136009b16_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/a965cfc586ff08c6_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/a9951bd676f6506c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/ab4315f00cf42aab_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/ae1a791cc5bfd79d_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/aead14ea19ba4642_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/b076f44667495224_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/b0af37983a157962_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/b5a776fab02a8db7_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/bd110868f6500f04_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/bd84dd852773c95c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/bf5f3885d94718ab_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/c0678f7627fbfe46_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/c2b35ca84433b01c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/c48b3399f7e3b2ff_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/c58c27de51e16971_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/c9aee0d054f83825_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/ca19d413e5b95524_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/cbf477625238e675_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/cc4a6f4e205ea8ba_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/ce7e42cdbb02d196_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/d39293bba6f61e5b_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/d7777b7fff9c7758_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/d9b9812758935958_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/dcb57375f3b3e0cf_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/dea7855493361027_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/e13034fb390f3e79_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/e1508cd4c0f4c79d_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/e2c3ccd35d4b600d_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/e7fcedf5870c0f7c_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/e9363bf5ff581600_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/ea69a2616cc4c4f5_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/ef53603d7f41675b_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/ef71b89a83d32a6f_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/f0a8c03c50660250_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/f9d429e87db7d778_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/fdc81cc775b1d0f3_0
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/index
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/js/index-dir/the-real-index
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/wasm/index
+tools/linkedin-scraper/.auth/profile/Default/Code Cache/wasm/index-dir/the-real-index
+tools/linkedin-scraper/.auth/profile/Default/commerce_subscription_db/LOCK
+tools/linkedin-scraper/.auth/profile/Default/commerce_subscription_db/LOG
+tools/linkedin-scraper/.auth/profile/Default/commerce_subscription_db/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/DawnGraphiteCache/data_0
+tools/linkedin-scraper/.auth/profile/Default/DawnGraphiteCache/data_1
+tools/linkedin-scraper/.auth/profile/Default/DawnGraphiteCache/data_2
+tools/linkedin-scraper/.auth/profile/Default/DawnGraphiteCache/data_3
+tools/linkedin-scraper/.auth/profile/Default/DawnGraphiteCache/index
+tools/linkedin-scraper/.auth/profile/Default/DawnWebGPUCache/data_0
+tools/linkedin-scraper/.auth/profile/Default/DawnWebGPUCache/data_1
+tools/linkedin-scraper/.auth/profile/Default/DawnWebGPUCache/data_2
+tools/linkedin-scraper/.auth/profile/Default/DawnWebGPUCache/data_3
+tools/linkedin-scraper/.auth/profile/Default/DawnWebGPUCache/index
+tools/linkedin-scraper/.auth/profile/Default/DIPS
+tools/linkedin-scraper/.auth/profile/Default/DIPS-wal
+tools/linkedin-scraper/.auth/profile/Default/discount_infos_db/LOCK
+tools/linkedin-scraper/.auth/profile/Default/discount_infos_db/LOG
+tools/linkedin-scraper/.auth/profile/Default/discount_infos_db/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/discounts_db/LOCK
+tools/linkedin-scraper/.auth/profile/Default/discounts_db/LOG
+tools/linkedin-scraper/.auth/profile/Default/discounts_db/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Extension Rules/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Extension Rules/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Extension Rules/LOG
+tools/linkedin-scraper/.auth/profile/Default/Extension Rules/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Extension Scripts/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Extension Scripts/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Extension Scripts/LOG
+tools/linkedin-scraper/.auth/profile/Default/Extension Scripts/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Extension State/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Extension State/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Extension State/LOG
+tools/linkedin-scraper/.auth/profile/Default/Extension State/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Extension State/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Favicons
+tools/linkedin-scraper/.auth/profile/Default/Favicons-journal
+tools/linkedin-scraper/.auth/profile/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+tools/linkedin-scraper/.auth/profile/Default/Feature Engagement Tracker/EventDB/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Feature Engagement Tracker/EventDB/LOG
+tools/linkedin-scraper/.auth/profile/Default/GCM Store/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/GCM Store/LOCK
+tools/linkedin-scraper/.auth/profile/Default/GCM Store/LOG
+tools/linkedin-scraper/.auth/profile/Default/GCM Store/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/GPUCache/data_0
+tools/linkedin-scraper/.auth/profile/Default/GPUCache/data_1
+tools/linkedin-scraper/.auth/profile/Default/GPUCache/data_2
+tools/linkedin-scraper/.auth/profile/Default/GPUCache/data_3
+tools/linkedin-scraper/.auth/profile/Default/GPUCache/index
+tools/linkedin-scraper/.auth/profile/Default/heavy_ad_intervention_opt_out.db
+tools/linkedin-scraper/.auth/profile/Default/heavy_ad_intervention_opt_out.db-journal
+tools/linkedin-scraper/.auth/profile/Default/History
+tools/linkedin-scraper/.auth/profile/Default/History-journal
+tools/linkedin-scraper/.auth/profile/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/LOCK
+tools/linkedin-scraper/.auth/profile/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/LOG
+tools/linkedin-scraper/.auth/profile/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Local Storage/leveldb/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Local Storage/leveldb/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Local Storage/leveldb/LOG
+tools/linkedin-scraper/.auth/profile/Default/Local Storage/leveldb/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Local Storage/leveldb/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/LOCK
+tools/linkedin-scraper/.auth/profile/Default/LOG
+tools/linkedin-scraper/.auth/profile/Default/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Login Data
+tools/linkedin-scraper/.auth/profile/Default/Login Data For Account
+tools/linkedin-scraper/.auth/profile/Default/Login Data For Account-journal
+tools/linkedin-scraper/.auth/profile/Default/Login Data-journal
+tools/linkedin-scraper/.auth/profile/Default/MediaDeviceSalts
+tools/linkedin-scraper/.auth/profile/Default/MediaDeviceSalts-journal
+tools/linkedin-scraper/.auth/profile/Default/Network Action Predictor
+tools/linkedin-scraper/.auth/profile/Default/Network Action Predictor-journal
+tools/linkedin-scraper/.auth/profile/Default/Network/Cookies
+tools/linkedin-scraper/.auth/profile/Default/Network/Cookies-journal
+tools/linkedin-scraper/.auth/profile/Default/Network/Network Persistent State
+tools/linkedin-scraper/.auth/profile/Default/Network/NetworkDataMigrated
+tools/linkedin-scraper/.auth/profile/Default/Network/Reporting and NEL
+tools/linkedin-scraper/.auth/profile/Default/Network/Reporting and NEL-journal
+tools/linkedin-scraper/.auth/profile/Default/Network/SCT Auditing Pending Reports
+tools/linkedin-scraper/.auth/profile/Default/Network/TransportSecurity
+tools/linkedin-scraper/.auth/profile/Default/Network/Trust Tokens
+tools/linkedin-scraper/.auth/profile/Default/Network/Trust Tokens-journal
+tools/linkedin-scraper/.auth/profile/Default/parcel_tracking_db/LOCK
+tools/linkedin-scraper/.auth/profile/Default/parcel_tracking_db/LOG
+tools/linkedin-scraper/.auth/profile/Default/parcel_tracking_db/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/PersistentOriginTrials/LOCK
+tools/linkedin-scraper/.auth/profile/Default/PersistentOriginTrials/LOG
+tools/linkedin-scraper/.auth/profile/Default/PersistentOriginTrials/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Preferences
+tools/linkedin-scraper/.auth/profile/Default/PreferredApps
+tools/linkedin-scraper/.auth/profile/Default/README
+tools/linkedin-scraper/.auth/profile/Default/Safe Browsing Network/NetworkDataMigrated
+tools/linkedin-scraper/.auth/profile/Default/Safe Browsing Network/Safe Browsing Cookies
+tools/linkedin-scraper/.auth/profile/Default/Safe Browsing Network/Safe Browsing Cookies-journal
+tools/linkedin-scraper/.auth/profile/Default/Secure Preferences
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SegmentInfoDB/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SegmentInfoDB/LOG
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SegmentInfoDB/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SignalDB/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SignalDB/LOG
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SignalDB/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+tools/linkedin-scraper/.auth/profile/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/ServerCertificate
+tools/linkedin-scraper/.auth/profile/Default/ServerCertificate-journal
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/Database/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/Database/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/Database/LOG
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/Database/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/Database/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/ScriptCache/index
+tools/linkedin-scraper/.auth/profile/Default/Service Worker/ScriptCache/index-dir/the-real-index
+tools/linkedin-scraper/.auth/profile/Default/Session Storage/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Session Storage/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Session Storage/LOG
+tools/linkedin-scraper/.auth/profile/Default/Session Storage/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Session Storage/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Sessions/Session_13413781097231964
+tools/linkedin-scraper/.auth/profile/Default/Sessions/Tabs_13413781411765373
+tools/linkedin-scraper/.auth/profile/Default/Sessions/Tabs_13413795644675115
+tools/linkedin-scraper/.auth/profile/Default/Shared Dictionary/cache/index
+tools/linkedin-scraper/.auth/profile/Default/Shared Dictionary/cache/index-dir/the-real-index
+tools/linkedin-scraper/.auth/profile/Default/Shared Dictionary/db
+tools/linkedin-scraper/.auth/profile/Default/Shared Dictionary/db-journal
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/LOCK
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/LOG
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/metadata/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/metadata/LOCK
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/metadata/LOG
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/metadata/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/shared_proto_db/metadata/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/SharedStorage
+tools/linkedin-scraper/.auth/profile/Default/Shortcuts
+tools/linkedin-scraper/.auth/profile/Default/Shortcuts-journal
+tools/linkedin-scraper/.auth/profile/Default/Site Characteristics Database/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Site Characteristics Database/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Site Characteristics Database/LOG
+tools/linkedin-scraper/.auth/profile/Default/Site Characteristics Database/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Site Characteristics Database/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Sync Data/LevelDB/CURRENT
+tools/linkedin-scraper/.auth/profile/Default/Sync Data/LevelDB/LOCK
+tools/linkedin-scraper/.auth/profile/Default/Sync Data/LevelDB/LOG
+tools/linkedin-scraper/.auth/profile/Default/Sync Data/LevelDB/LOG.old
+tools/linkedin-scraper/.auth/profile/Default/Sync Data/LevelDB/MANIFEST-000001
+tools/linkedin-scraper/.auth/profile/Default/Top Sites
+tools/linkedin-scraper/.auth/profile/Default/Top Sites-journal
+tools/linkedin-scraper/.auth/profile/Default/trusted_vault.pb
+tools/linkedin-scraper/.auth/profile/Default/Web Data
+tools/linkedin-scraper/.auth/profile/Default/Web Data-journal
+tools/linkedin-scraper/.auth/profile/Default/WebStorage/QuotaManager
+tools/linkedin-scraper/.auth/profile/Default/WebStorage/QuotaManager-journal
+tools/linkedin-scraper/.auth/profile/extensions_crx_cache/metadata.json
+tools/linkedin-scraper/.auth/profile/first_party_sets.db
+tools/linkedin-scraper/.auth/profile/first_party_sets.db-journal
+tools/linkedin-scraper/.auth/profile/GraphiteDawnCache/data_0
+tools/linkedin-scraper/.auth/profile/GraphiteDawnCache/data_1
+tools/linkedin-scraper/.auth/profile/GraphiteDawnCache/data_2
+tools/linkedin-scraper/.auth/profile/GraphiteDawnCache/data_3
+tools/linkedin-scraper/.auth/profile/GraphiteDawnCache/index
+tools/linkedin-scraper/.auth/profile/GrShaderCache/data_0
+tools/linkedin-scraper/.auth/profile/GrShaderCache/data_1
+tools/linkedin-scraper/.auth/profile/GrShaderCache/data_2
+tools/linkedin-scraper/.auth/profile/GrShaderCache/data_3
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000001
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000002
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000003
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000004
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000005
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000006
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000007
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000008
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000009
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_00000a
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_00000b
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_00000c
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_00000d
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_00000e
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_00000f
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000010
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000011
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000012
+tools/linkedin-scraper/.auth/profile/GrShaderCache/f_000013
+tools/linkedin-scraper/.auth/profile/GrShaderCache/index
+tools/linkedin-scraper/.auth/profile/Last Browser
+tools/linkedin-scraper/.auth/profile/Last Version
+tools/linkedin-scraper/.auth/profile/Local State
+tools/linkedin-scraper/.auth/profile/segmentation_platform/ukm_db
+tools/linkedin-scraper/.auth/profile/segmentation_platform/ukm_db-wal
+tools/linkedin-scraper/.auth/profile/ShaderCache/data_0
+tools/linkedin-scraper/.auth/profile/ShaderCache/data_1
+tools/linkedin-scraper/.auth/profile/ShaderCache/data_2
+tools/linkedin-scraper/.auth/profile/ShaderCache/data_3
+tools/linkedin-scraper/.auth/profile/ShaderCache/index
+tools/linkedin-scraper/.auth/profile/Variations
+tools/linkedin-scraper/linkedin-rss.js
+tools/linkedin-scraper/package-lock.json
+tools/linkedin-scraper/package.json

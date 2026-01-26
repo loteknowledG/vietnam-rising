@@ -60,3 +60,9 @@ See [Export](export.md) for details on what's included and how to use it.
 - **Be specific** — The more detail you provide, the better the output.
 - **Iterate** — Each command is a conversation. Refine until you're happy.
 - **Restart the dev server** — After creating new components, restart to see changes.
+
+## LinkedIn Job Alerts
+
+- **Sign in:** Use LinkedIn's login page: https://www.linkedin.com/login
+- **Create alerts:** After signing in, perform a job search and use the "Create job alert" option to receive email notifications for matching jobs.
+- **Notes:** LinkedIn requires an account to create alerts. For programmatic access, consider official APIs or an authenticated headless approach (be mindful of LinkedIn's Terms of Service).
