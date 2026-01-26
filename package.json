@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "linkedin-rss": "node scripts/linkedin-rss.js",
     "preview": "vite preview",
+    "deploy": "pnpm run deploy:gh",
     "deploy:gh": "pnpm -s build && gh-pages -d dist --dotfiles"
   },
   "dependencies": {
@@ -29,7 +30,7 @@
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.9.6",
     "tailwind-merge": "^3.4.0",
-    "tailwindcss": "^4.1.17"
+    "tailwindcss": "^4.1.17",
     "puppeteer": "^21.4.0"
   },
   "devDependencies": {

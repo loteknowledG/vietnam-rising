@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+import { useMemo, type ReactElement } from 'react'
 // Vite raw import to load the XML file as a string
 // @ts-ignore
 import xmlString from '../../../ho-chi-minh-city-metropolitan-area.xml?raw'
@@ -27,7 +27,7 @@ function parseRss(xml: string): JobItem[] {
   }
 }
 
-export default function HcmcJobListing(): JSX.Element {
+export default function HcmcJobListing(): ReactElement {
   const jobs = useMemo(() => parseRss(xmlString as string), [])
 
   return (
