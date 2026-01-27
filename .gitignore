@@ -409,3 +409,5 @@ tools/linkedin-scraper/.auth/profile/Variations
 tools/linkedin-scraper/linkedin-rss.js
 tools/linkedin-scraper/package-lock.json
 tools/linkedin-scraper/package.json
+*.pma
+/.auth
