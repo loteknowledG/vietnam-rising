@@ -36,109 +36,139 @@
     ],
     "jobs": [
         {
-            "id": "hcmc-001",
-            "title": "Senior Frontend Engineer - Payment Tech",
-            "company": "Binance",
-            "salary": "$3,000 - $5,000",
+            "id": "hcmc-018",
+            "title": "Frontend Developer (Freelancer)",
+            "company": "Tag",
+            "salary": "TBD",
             "location": "Ho Chi Minh City",
-            "postedDate": "2025-10-15",
-            "platformId": "indeed",
-            "floorNumber": 80,
-            "officeAttributes": {
-                "vibe": "Global Blockchain Ecosystem",
-                "occupancy": "95%"
-            },
-            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=42ddc18e242b6c5f"
-        },
-        {
-            "id": "hcmc-002",
-            "title": "Frontend Engineer (JS/ReactJS) - Captcha & SmartID",
-            "company": "NAVER Vietnam",
-            "salary": "Competitive",
-            "location": "Ho Chi Minh City",
-            "postedDate": "2025-07-01",
-            "platformId": "indeed",
-            "floorNumber": 76,
-            "officeAttributes": {
-                "vibe": "AI & Visual Experience",
-                "occupancy": "90%"
-            },
-            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=d0247d3b361dedca"
-        },
-        {
-            "id": "hcmc-003",
-            "title": "Senior React Native Engineer",
-            "company": "MoMo (M_Service)",
-            "salary": "$2,500 - $4,000",
-            "location": "District 7, HCMC",
-            "postedDate": "2025-10-20",
-            "platformId": "itviec",
-            "floorNumber": 72,
-            "officeAttributes": {
-                "vibe": "FinTech Unicorn",
-                "occupancy": "88%"
-            },
-            "sourceUrl": "https://itviec.com"
-        },
-        {
-            "id": "hcmc-004",
-            "title": "Frontend Engineer (JS/ReactJS) - Naver Services",
-            "company": "NAVER Vietnam",
-            "salary": "Competitive",
-            "location": "Ho Chi Minh City",
-            "postedDate": "2024-11-23",
-            "platformId": "indeed",
-            "floorNumber": 68,
-            "officeAttributes": {
-                "vibe": "Large-Scale Services",
-                "occupancy": "85%"
-            },
-            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=680566b2bd1757e3"
-        },
-        {
-            "id": "hcmc-005",
-            "title": "Principal Software Engineer (Web)",
-            "company": "Zalo (VNG)",
-            "salary": "$4,000 - $6,000",
-            "location": "District 2, HCMC",
-            "postedDate": "2025-10-18",
+            "postedDate": "2026-02-11",
             "platformId": "linkedin",
-            "floorNumber": 64,
+            "floorNumber": 18,
             "officeAttributes": {
-                "vibe": "Super App Giant",
-                "occupancy": "92%"
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
             },
-            "sourceUrl": "https://linkedin.com"
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4321389148/"
         },
         {
-            "id": "hcmc-006",
-            "title": "Fresher ReactJS Developer (N4 Japanese)",
-            "company": "SPLUS JAPAN",
-            "salary": "10M - 14M VND",
+            "id": "hcmc-019",
+            "title": "React Developer | $70/hr Remote",
+            "company": "Crossing Hurdles",
+            "salary": "TBD",
+            "location": "Remote",
+            "postedDate": "2026-02-11",
+            "platformId": "linkedin",
+            "floorNumber": 17,
+            "officeAttributes": {
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4369555610/"
+        },
+        {
+            "id": "hcmc-020",
+            "title": "NodeJS Developer (Good EN)",
+            "company": "FPT Software",
+            "salary": "TBD",
             "location": "Ho Chi Minh City",
-            "postedDate": "2025-05-21",
-            "platformId": "indeed",
-            "floorNumber": 60,
+            "postedDate": "2026-02-11",
+            "platformId": "linkedin",
+            "floorNumber": 16,
             "officeAttributes": {
-                "vibe": "Dynamic & Professional",
-                "occupancy": "75%"
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
             },
-            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=cfacd57212877fd5"
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4370235555/"
         },
         {
-            "id": "hcmc-007",
-            "title": "Senior Frontend Engineer - Payment Tech (Remote)",
-            "company": "Binance",
-            "salary": "$3,000+",
-            "location": "Remote / HCMC",
-            "postedDate": "2025-07-17",
-            "platformId": "indeed",
-            "floorNumber": 56,
+            "id": "hcmc-021",
+            "title": "FrontEnd Software Engineer (Remote)",
+            "company": "Keystone Recruitment",
+            "salary": "TBD",
+            "location": "Remote",
+            "postedDate": "2026-02-11",
+            "platformId": "linkedin",
+            "floorNumber": 15,
             "officeAttributes": {
-                "vibe": "Remote-First",
-                "occupancy": "100%"
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
             },
-            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=d3024d8244f7ae78"
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4370961414/"
+        },
+        {
+            "id": "hcmc-022",
+            "title": "(Hybrid/Remote) Principal JavaScript Engineer (Node.js/NestJS + ReactJS/VueJS)",
+            "company": "tech company",
+            "salary": "TBD",
+            "location": "Vietnam / Remote",
+            "postedDate": "2026-02-11",
+            "platformId": "linkedin",
+            "floorNumber": 14,
+            "officeAttributes": {
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4370236158/"
+        },
+        {
+            "id": "hcmc-023",
+            "title": "Full Stack Engineer (Node.js & Vue/React)",
+            "company": "CoverGo",
+            "salary": "TBD",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2026-02-11",
+            "platformId": "linkedin",
+            "floorNumber": 13,
+            "officeAttributes": {
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4337817332/"
+        },
+        {
+            "id": "hcmc-024",
+            "title": "ReactJS Developer",
+            "company": "DXC Technology Vietnam",
+            "salary": "TBD",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2026-02-11",
+            "platformId": "linkedin",
+            "floorNumber": 12,
+            "officeAttributes": {
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4366982826/"
+        },
+        {
+            "id": "hcmc-025",
+            "title": "Front-End Framework Engineer",
+            "company": "Unknown",
+            "salary": "TBD",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2026-02-11",
+            "platformId": "linkedin",
+            "floorNumber": 11,
+            "officeAttributes": {
+                "vibe": "Unknown",
+                "occupancy": "Unknown"
+            },
+            "sourceUrl": "https://www.linkedin.com/jobs/view/4354278745/"
+        },
+        {
+            "id": "hcmc-017",
+            "title": "Intern Frontend Developer",
+            "company": "Gameloft",
+            "salary": "Internship Allowance",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-25",
+            "platformId": "indeed",
+            "floorNumber": 10,
+            "officeAttributes": {
+                "vibe": "Game Studio",
+                "occupancy": "65%"
+            },
+            "sourceUrl": "https://gameloft.com"
         },
         {
             "id": "hcmc-008",
@@ -156,32 +186,32 @@
             "sourceUrl": "https://itviec.com"
         },
         {
-            "id": "hcmc-009",
-            "title": "Middle ReactJS Developer",
-            "company": "KMS Technology",
-            "salary": "$1,500 - $2,500",
-            "location": "Tan Binh, HCMC",
-            "postedDate": "2025-10-10",
+            "id": "hcmc-003",
+            "title": "Senior React Native Engineer",
+            "company": "MoMo (M_Service)",
+            "salary": "$2,500 - $4,000",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-20",
             "platformId": "itviec",
-            "floorNumber": 48,
+            "floorNumber": 72,
             "officeAttributes": {
-                "vibe": "Product Lab",
-                "occupancy": "85%"
+                "vibe": "FinTech Unicorn",
+                "occupancy": "88%"
             },
             "sourceUrl": "https://itviec.com"
         },
         {
-            "id": "hcmc-010",
-            "title": "Full Stack Developer (Node/React)",
-            "company": "Grab Vietnam",
-            "salary": "$2,000 - $3,500",
-            "location": "District 7, HCMC",
-            "postedDate": "2025-10-12",
+            "id": "hcmc-005",
+            "title": "Principal Software Engineer (Web)",
+            "company": "Zalo (VNG)",
+            "salary": "$4,000 - $6,000",
+            "location": "District 2, HCMC",
+            "postedDate": "2025-10-18",
             "platformId": "linkedin",
-            "floorNumber": 44,
+            "floorNumber": 64,
             "officeAttributes": {
-                "vibe": "Regional Tech Decacorn",
-                "occupancy": "90%"
+                "vibe": "Super App Giant",
+                "occupancy": "92%"
             },
             "sourceUrl": "https://linkedin.com"
         },
@@ -201,34 +231,19 @@
             "sourceUrl": "https://jobs.vn.indeed.com"
         },
         {
-            "id": "hcmc-012",
-            "title": "Senior Software Engineer (Frontend)",
-            "company": "Anduin Transactions",
-            "salary": "$4,000 - $6,000",
-            "location": "District 1, HCMC",
-            "postedDate": "2025-10-05",
-            "platformId": "itviec",
-            "floorNumber": 36,
+            "id": "hcmc-001",
+            "title": "Senior Frontend Engineer - Payment Tech",
+            "company": "Binance",
+            "salary": "$3,000 - $5,000",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-10-15",
+            "platformId": "indeed",
+            "floorNumber": 80,
             "officeAttributes": {
-                "vibe": "Silicon Valley Culture",
-                "occupancy": "70%"
+                "vibe": "Global Blockchain Ecosystem",
+                "occupancy": "95%"
             },
-            "sourceUrl": "https://itviec.com"
-        },
-        {
-            "id": "hcmc-013",
-            "title": "Frontend Developer (Vue/React)",
-            "company": "One Mount Group",
-            "salary": "$1,200 - $2,200",
-            "location": "Binh Thanh, HCMC",
-            "postedDate": "2025-09-28",
-            "platformId": "linkedin",
-            "floorNumber": 32,
-            "officeAttributes": {
-                "vibe": "Strategic Partnership",
-                "occupancy": "82%"
-            },
-            "sourceUrl": "https://linkedin.com"
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=42ddc18e242b6c5f"
         },
         {
             "id": "hcmc-014",
@@ -242,6 +257,66 @@
             "officeAttributes": {
                 "vibe": "Australian Tech",
                 "occupancy": "78%"
+            },
+            "sourceUrl": "https://itviec.com"
+        },
+        {
+            "id": "hcmc-010",
+            "title": "Full Stack Developer (Node/React)",
+            "company": "Grab Vietnam",
+            "salary": "$2,000 - $3,500",
+            "location": "District 7, HCMC",
+            "postedDate": "2025-10-12",
+            "platformId": "linkedin",
+            "floorNumber": 44,
+            "officeAttributes": {
+                "vibe": "Regional Tech Decacorn",
+                "occupancy": "90%"
+            },
+            "sourceUrl": "https://linkedin.com"
+        },
+        {
+            "id": "hcmc-009",
+            "title": "Middle ReactJS Developer",
+            "company": "KMS Technology",
+            "salary": "$1,500 - $2,500",
+            "location": "Tan Binh, HCMC",
+            "postedDate": "2025-10-10",
+            "platformId": "itviec",
+            "floorNumber": 48,
+            "officeAttributes": {
+                "vibe": "Product Lab",
+                "occupancy": "85%"
+            },
+            "sourceUrl": "https://itviec.com"
+        },
+        {
+            "id": "hcmc-016",
+            "title": "Software Engineer (React/Go)",
+            "company": "Gojek",
+            "salary": "$2,500 - $4,000",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-10-08",
+            "platformId": "itviec",
+            "floorNumber": 20,
+            "officeAttributes": {
+                "vibe": "Super App",
+                "occupancy": "80%"
+            },
+            "sourceUrl": "https://itviec.com"
+        },
+        {
+            "id": "hcmc-012",
+            "title": "Senior Software Engineer (Frontend)",
+            "company": "Anduin Transactions",
+            "salary": "$4,000 - $6,000",
+            "location": "District 1, HCMC",
+            "postedDate": "2025-10-05",
+            "platformId": "itviec",
+            "floorNumber": 36,
+            "officeAttributes": {
+                "vibe": "Silicon Valley Culture",
+                "occupancy": "70%"
             },
             "sourceUrl": "https://itviec.com"
         },
@@ -261,34 +336,79 @@
             "sourceUrl": "https://linkedin.com"
         },
         {
-            "id": "hcmc-016",
-            "title": "Software Engineer (React/Go)",
-            "company": "Gojek",
-            "salary": "$2,500 - $4,000",
-            "location": "Ho Chi Minh City",
-            "postedDate": "2025-10-08",
-            "platformId": "itviec",
-            "floorNumber": 20,
+            "id": "hcmc-013",
+            "title": "Frontend Developer (Vue/React)",
+            "company": "One Mount Group",
+            "salary": "$1,200 - $2,200",
+            "location": "Binh Thanh, HCMC",
+            "postedDate": "2025-09-28",
+            "platformId": "linkedin",
+            "floorNumber": 32,
             "officeAttributes": {
-                "vibe": "Super App",
-                "occupancy": "80%"
+                "vibe": "Strategic Partnership",
+                "occupancy": "82%"
             },
-            "sourceUrl": "https://itviec.com"
+            "sourceUrl": "https://linkedin.com"
         },
         {
-            "id": "hcmc-017",
-            "title": "Intern Frontend Developer",
-            "company": "Gameloft",
-            "salary": "Internship Allowance",
-            "location": "District 7, HCMC",
-            "postedDate": "2025-10-25",
+            "id": "hcmc-007",
+            "title": "Senior Frontend Engineer - Payment Tech (Remote)",
+            "company": "Binance",
+            "salary": "$3,000+",
+            "location": "Remote / HCMC",
+            "postedDate": "2025-07-17",
             "platformId": "indeed",
-            "floorNumber": 10,
+            "floorNumber": 56,
             "officeAttributes": {
-                "vibe": "Game Studio",
-                "occupancy": "65%"
+                "vibe": "Remote-First",
+                "occupancy": "100%"
             },
-            "sourceUrl": "https://gameloft.com"
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=d3024d8244f7ae78"
+        },
+        {
+            "id": "hcmc-002",
+            "title": "Frontend Engineer (JS/ReactJS) - Captcha & SmartID",
+            "company": "NAVER Vietnam",
+            "salary": "Competitive",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-07-01",
+            "platformId": "indeed",
+            "floorNumber": 76,
+            "officeAttributes": {
+                "vibe": "AI & Visual Experience",
+                "occupancy": "90%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=d0247d3b361dedca"
+        },
+        {
+            "id": "hcmc-006",
+            "title": "Fresher ReactJS Developer (N4 Japanese)",
+            "company": "SPLUS JAPAN",
+            "salary": "10M - 14M VND",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2025-05-21",
+            "platformId": "indeed",
+            "floorNumber": 60,
+            "officeAttributes": {
+                "vibe": "Dynamic & Professional",
+                "occupancy": "75%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=cfacd57212877fd5"
+        },
+        {
+            "id": "hcmc-004",
+            "title": "Frontend Engineer (JS/ReactJS) - Naver Services",
+            "company": "NAVER Vietnam",
+            "salary": "Competitive",
+            "location": "Ho Chi Minh City",
+            "postedDate": "2024-11-23",
+            "platformId": "indeed",
+            "floorNumber": 68,
+            "officeAttributes": {
+                "vibe": "Large-Scale Services",
+                "occupancy": "85%"
+            },
+            "sourceUrl": "https://jobs.vn.indeed.com/rc/clk?jk=680566b2bd1757e3"
         }
     ]
 }
