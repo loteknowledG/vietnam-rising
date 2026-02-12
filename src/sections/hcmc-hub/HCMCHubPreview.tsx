@@ -11,13 +11,10 @@ import { useEffect, useMemo, useState } from 'react'
 export default function HCMCHubPreview() {
     // Cast data since it's imported from JSON
     const cityData = data.city as unknown as City
-    const fallbackJobsData = useMemo(() => data.jobs as unknown as Job[], [])
     const platformsData = data.platforms as unknown as Platform[]
 
-    const [jobsData, setJobsData] = useState<Job[]>(() => {
-        // Keep floors capped to the building height in case sample data grows.
-        return fallbackJobsData.slice(0, cityData.totalFloors)
-    })
+    // Start with an empty live job list — do NOT use sample data as a visual fallback.
+    const [jobsData, setJobsData] = useState<Job[]>(() => [])
 
     const feedUrls = useMemo(
         () => [
@@ -59,15 +56,11 @@ export default function HCMCHubPreview() {
 
                 if (uniqueJobs.length === 0) return
 
-                // Pad with sample data if needed
-                const usedUrls = new Set(uniqueJobs.map((j) => j.sourceUrl))
-                const padded = [
-                    ...uniqueJobs,
-                    ...fallbackJobsData.filter((j) => !usedUrls.has(j.sourceUrl))
-                ].slice(0, cityData.totalFloors)
+                // Use only live RSS results (newest first). Do not inject sample data.
+                const selected = uniqueJobs.slice(0, cityData.totalFloors)
 
-                // Reassign floor numbers so we always populate 81 floors.
-                const withFloors = padded.map((job, idx) => ({
+                // Reassign floor numbers so newest appear at the top floors.
+                const withFloors = selected.map((job, idx) => ({
                     ...job,
                     floorNumber: Math.max(1, cityData.totalFloors - idx)
                 }))
@@ -75,8 +68,8 @@ export default function HCMCHubPreview() {
                 setJobsData(withFloors)
             })
             .catch((err) => {
-                // RSS feeds can fail in-browser due to CORS; keep sample data as fallback.
-                console.warn('Failed to load live RSS jobs; using sample data instead.', err)
+                // RSS feeds can fail in-browser due to CORS or network issues — do not inject sample data.
+                console.warn('Failed to load live RSS jobs; keeping current live list (no sample fallback).', err)
             })
 
         return () => {
