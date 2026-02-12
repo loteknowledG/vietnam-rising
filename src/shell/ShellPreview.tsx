@@ -17,7 +17,7 @@ export default function ShellPreview() {
             navigationItems={navigationItems}
             user={user}
             onNavigate={(href) => console.log('Navigate to:', href)}
-            onHireMe={() => console.log('Hire me clicked')}
+            onHireMe={() => window.open('/resume.pdf', '_blank', 'noopener,noreferrer')}
         >
             <div className="flex-1 flex flex-col">
                 {/* Mock Parallax Surface */}
