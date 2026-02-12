@@ -58,7 +58,7 @@ export function HanoiHub({
                 <div className="absolute inset-0 z-0 bg-gradient-to-b from-sky-700 via-sky-500 to-sky-200 dark:from-sky-950 dark:via-sky-900 dark:to-stone-950" />
 
                 {/* Summit title overlay (no separate header section) */}
-                <div className="absolute top-10 left-1/2 -translate-x-1/2 z-20 text-center pointer-events-none">
+                <div className="absolute top-16 left-1/2 -translate-x-1/2 z-20 text-center pointer-events-none">
                     <div className="inline-block bg-amber-400 text-stone-900 border-2 border-stone-900 px-4 py-1 font-mono font-black text-sm uppercase tracking-widest mb-4 shadow-[4px_4px_0px_0px_rgba(28,25,23,1)]">
                         {city.skyscraper} SUMMIT
                     </div>

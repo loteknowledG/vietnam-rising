@@ -59,7 +59,7 @@ export function PortfolioLayout() {
             navigationItems={navigationItems}
             user={user}
             onNavigate={(href) => navigate(href)}
-            onHireMe={() => window.open('/resume.pdf', '_blank', 'noopener,noreferrer')}
+            onHireMe={() => window.open('resume.html', '_blank', 'noopener,noreferrer')}
         >
             <div className="flex-1">
                 <Outlet />

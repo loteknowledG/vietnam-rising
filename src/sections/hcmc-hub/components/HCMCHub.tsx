@@ -19,7 +19,7 @@ export function HCMCHub({
                 {/* Abstract Architectural Background Elements */}
                 <div className="absolute top-0 right-0 w-1/3 h-full border-l border-white/5 bg-[repeating-linear-gradient(45deg,transparent,transparent_20px,rgba(255,255,255,0.03)_20px,rgba(255,255,255,0.03)_40px)]" />
 
-                <div className="relative z-10 text-center">
+                <div className="absolute top-16 left-1/2 -translate-x-1/2 z-20 text-center pointer-events-none">
                     <div className="inline-block bg-fuchsia-500 text-white border border-fuchsia-400 px-4 py-1 font-mono font-black text-sm uppercase tracking-widest mb-4 shadow-[0_0_15px_rgba(217,70,239,0.5)]">
                         {city.skyscraper} SPIRE
                     </div>
