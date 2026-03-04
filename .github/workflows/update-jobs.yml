@@ -1,0 +1,53 @@
+name: Update jobs (cron)
+
+on:
+  schedule:
+    # Runs once per day at 06:00 UTC — change via the UI or edit this file
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      # Optional: set these secrets in repository settings if you want the scraper to run
+      LINKEDIN_EMAIL: ${{ secrets.LINKEDIN_EMAIL }}
+      LINKEDIN_PASS: ${{ secrets.LINKEDIN_PASS }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'pnpm'
+
+      - name: Enable pnpm with Corepack
+        run: |
+          corepack enable
+          corepack prepare pnpm@latest --activate
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Run update-jobs
+        run: pnpm run update-jobs
+
+      - name: Commit & push changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/rss public/data data/job-links.json || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update live jobs (cron)" || echo "commit failed"
+            git push origin HEAD:main
+          fi

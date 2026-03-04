@@ -15,6 +15,7 @@
         "name": "Ho Chi Minh City",
         "skyscraper": "Landmark 81",
         "totalFloors": 81,
+        "queueSize": 25,
         "descentSpeed": "standard"
     },
     "platforms": [
@@ -33,6 +34,9 @@
             "name": "ITViec",
             "url": "https://itviec.com"
         }
+    ],
+    "feedUrls": [
+        "/ho-chi-minh-city-metropolitan-area.xml"
     ],
     "jobs": [
         {

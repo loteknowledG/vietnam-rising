@@ -69,9 +69,9 @@ export function JobFloor({ job, onViewSource }: JobFloorProps) {
                                     <div className="flex items-center gap-2 px-2 py-0.5 bg-fuchsia-400 text-stone-900 text-[10px] font-black uppercase tracking-widest border border-stone-900">
                                         FLOOR {job.floorNumber}
                                     </div>
-                                    <div className="flex items-center gap-1 text-[10px] font-mono font-bold text-stone-500">
+                                    <div className="flex items-center gap-1 text-[10px] font-mono font-bold text-stone-500" title={new Date(job.postedDate || '').toLocaleString()}>
                                         <Calendar className="w-3 h-3" />
-                                        {job.postedDate}
+                                        {new Date(job.postedDate || '').toUTCString()}
                                     </div>
                                 </div>
 
@@ -105,9 +105,9 @@ export function JobFloor({ job, onViewSource }: JobFloorProps) {
                                     <div className="flex items-center gap-2 px-2 py-0.5 bg-lime-400 text-stone-900 text-[10px] font-black uppercase tracking-widest border border-stone-900">
                                         DETAILS
                                     </div>
-                                    <div className="flex items-center gap-1 text-[10px] font-mono font-bold text-stone-500">
+                                    <div className="flex items-center gap-1 text-[10px] font-mono font-bold text-stone-500" title={new Date(job.postedDate || '').toLocaleString()}>
                                         <Calendar className="w-3 h-3" />
-                                        {job.postedDate}
+                                        {new Date(job.postedDate || '').toUTCString()}
                                     </div>
                                 </div>
 

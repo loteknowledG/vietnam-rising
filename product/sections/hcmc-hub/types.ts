@@ -32,9 +32,11 @@ export interface City {
     skyscraper: string
     /** Total height in floors */
     totalFloors: number
+    /** Maximum number of live job cards kept in the queue; older jobs are pushed off */
+    queueSize?: number
     /** Suggested scroll speed indicator */
     descentSpeed: 'slow' | 'standard' | 'fast'
-}
+} 
 
 export interface Job {
     /** Unique listing identifier */
@@ -73,6 +75,10 @@ export interface HCMCHubProps {
     jobs: Job[]
     /** Available job platforms for filtering/icons */
     platforms: Platform[]
+    /** Number of persisted jobs (server cache), useful for HUD */
+    persistedJobsCount?: number
+    /** Number of live-feed jobs fetched client-side, useful for HUD */
+    liveJobsCount?: number
     /** Called when a user clicks 'View Job' to navigate to the source */
     onViewSource?: (url: string) => void
     /** Called when the user scrolls past a new floor threshold */

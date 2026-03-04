@@ -10,6 +10,8 @@ import { CityHUD } from './CityHUD'
 export function HCMCHub({
     city,
     jobs,
+    persistedJobsCount,
+    liveJobsCount,
     onViewSource
 }: HCMCHubProps) {
     return (
@@ -58,6 +60,8 @@ export function HCMCHub({
                 cityName={city.name}
                 jobCount={jobs.length}
                 activeSkyscraper={city.skyscraper}
+                persistedCount={persistedJobsCount}
+                liveCount={liveJobsCount}
             />
 
             {/* Ground Floor Finish */}

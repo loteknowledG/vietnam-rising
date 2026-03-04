@@ -4,9 +4,11 @@ interface CityHUDProps {
     cityName: string
     jobCount: number
     activeSkyscraper: string
+    persistedCount?: number
+    liveCount?: number
 }
 
-export function CityHUD({ cityName, jobCount, activeSkyscraper }: CityHUDProps) {
+export function CityHUD({ cityName, jobCount, activeSkyscraper, persistedCount, liveCount }: CityHUDProps) {
     return (
         <div className="fixed bottom-8 left-8 z-40 flex flex-col gap-4 pointer-events-none">
             {/* City Badge */}
@@ -29,6 +31,10 @@ export function CityHUD({ cityName, jobCount, activeSkyscraper }: CityHUDProps) 
                             <span className="text-[9px] font-mono font-bold uppercase tracking-widest text-stone-400">REACT ROLES</span>
                         </div>
                         <div className="text-xl font-heading font-black leading-none">{jobCount}</div>
+                        <div className="mt-1 text-[11px] text-stone-400 font-mono">
+                            <span className="mr-3">Server: <strong className="text-lime-400">{persistedCount ?? 0}</strong></span>
+                            <span>Live: <strong className="text-fuchsia-400">{liveCount ?? 0}</strong></span>
+                        </div>
                     </div>
                     <div>
                         <div className="flex items-center gap-1 mb-1">
